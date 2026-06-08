@@ -21,8 +21,8 @@ Web Audio API: Ses efektleri için
 ResizeObserver API: Ekran boyutu değişiminde dinamik güncelleme
 
 **Proje Ekibi
-**Tasarım ve raporlama: Simanur Gürsoy
-Kodlama ve test: Ebrar İkbal Karakuzu, Simanur Gürsoy
+**Simanur Gürsoy: Tasarım, Kodlama, Rapor, Test
+Ebrar İkbal Karakuzu: Test
 
 **Test Süreci
 **Proje fonksiyonları ayrı ayrı test edilmiştir.
